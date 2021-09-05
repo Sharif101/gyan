@@ -1,0 +1,604 @@
+@media(min-width: 320px) and (max-width: 575.98px){
+    /* headerpart start */
+    header p {
+        display: block;
+        color: #fff;
+        text-align: center;
+        padding: 6px;
+        margin: auto;
+        font-size: 20px;
+    }
+
+    header .reg {
+        display: block;
+        text-align: center;
+    }
+
+
+    /* navbarpart start */
+    nav button i
+    {
+        font-size: 24px;
+        margin-top: 8px;
+        color: #2d3e50;
+    }
+
+    nav ul li {
+        font-size: 15px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+
+    nav .button a {
+        font-size: 15px;
+        padding: 8px 10px;
+        color: #fff;
+        margin-left: 80px;
+        margin-top: 10px;
+    }
+
+    /* banner part */
+    #banner-part .banner .overlay {
+        padding-top: 70px;
+    }
+    #banner-part .banner .overlay h3 {
+        font-size: 36px;
+        font-weight: 600;
+    }
+
+    #banner-part .banner .overlay p {
+        width: 100%;
+        font-size: 16px;
+    }
+    #banner-part .overlay a 
+    {
+        font-size: 17px;
+        padding: 10px 18px;
+        margin-right: 10px;
+    } 
+
+    #banner-bottom .item {
+        margin-top: 10px;
+    }
+
+    #banner-part .prev {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        line-height: 35px;
+        top: 77%;
+        left: 115px;
+    }
+    #banner-part .next {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        line-height: 35px;
+        top: 77%;
+        right: 119px;
+    }
+
+    /* about part */
+
+    #about-part {
+        padding-bottom: 65px;
+    }
+
+    .title p {
+        font-size: 14px;
+        padding-bottom: 65px;
+        padding-top: 22px;
+        width: 100%;
+    }
+    #about-part .text-part p {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    #about-part .text-part a {
+        font-size: 17px;
+        padding: 10px 18px;
+    }
+
+     /* counter part */
+    #counter-part .item h2 {
+        font-size: 40px;
+        padding-bottom: 0px;
+        padding-top: 15px;
+    }
+    #counter-part .item p {
+        font-size: 24px;
+    }
+    
+
+
+
+    #event-part .item-part {
+        width: 90%;
+        margin: 0 auto;
+    }
+    #event-part .item-part .item {
+        display: block;
+    }
+    #event-part .item-part .text {
+        padding: 23px;
+        padding-top: 0;
+    }
+    #event-part .item-part .item .text h2 {
+        font-size: 20px;
+        padding: 0;
+    }
+    #event-part .item-part .item .text p {
+        font-size: 13px;
+        width: 100%;
+    }
+    #event-part .item-part .item .middle p {
+        font-size: 12px;
+    }
+    /* course part */
+    #course-part .introduction .name p {
+        font-size: 12px;
+    }
+
+    #course-part .introduction .rating ul li {
+        font-size: 8px;
+    }
+
+    #course-part .introduction .name h2 {
+        font-size: 13px;
+    }
+
+    #course-part .introduction .rating p {
+        font-size: 11px;
+    }
+    #course-part .details p {
+        font-size: 12px;
+    }
+    #course-part .duration h3 {
+        font-size: 12px;
+    }
+
+
+    /* testimonial part */
+
+    #testimonial-part .details p {
+        font-size: 13px;
+        width: 100%;
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    #testimonial-part .details h2 {
+        font-size: 15px;
+    }
+    #testimonial-part .details h2 span {
+        font-size: 13px;
+    }
+
+    /* teacher part */
+
+    #teacher-part {
+        padding-top: 12px;
+    }
+
+    #teacher-part .item .overlay {
+        top: 87%;
+    }
+
+    #teacher-part .item .img .overlay ul li {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+
+    /* blog part */
+
+    #blog-part {
+        transform: translateY(-10%);
+    }
+    #blog-part .first .img {
+        position: relative;
+        margin: 9px 5px;
+    }
+    #blog-part .first .overlay {
+        height: 100%;
+    }
+    #blog-part .first .img .overlay .icon ul li {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+        line-height: 35px;
+    }
+    #blog-part .second {
+        margin-top: 5px;
+    }
+    #blog-part .second .overlay {
+        height: 100%;
+    }
+    #blog-part .second .img {
+        position: relative;
+        margin: 6px 5px;
+    }
+    /* contact part */
+    #contact-part{
+        margin-top: -130px;
+    }
+    #contact-part .left p {
+        font-size: 14px;
+        padding-top: 25px;
+    }
+    #contact-part .left ul {
+        text-align: center;
+    }
+    #contact-part .left ul li a {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+        line-height: 35px;
+    }
+    #contact-part .center h2 {
+        padding: 25px 0 45px 10px;
+    }
+    #contact-part .center ul li {
+        padding-left: 0px;
+    }
+    #contact-part .right h2 {
+        padding-left: 10px;
+    }
+    #contact-part .right a {
+        width: 35px;
+        height: 34px;
+        font-size: 16px;
+        line-height: 35px;
+        margin-left: 17px;
+    }
+
+
+
+    /* footer part */
+    #footer-part .img .overlay:hover 
+    {
+        opacity: 0;
+    }
+}
+
+
+@media(min-width:576px) and (max-width:767.98px){
+
+    /* hearder part */
+    header p {
+        display: block;
+        padding-bottom: 5px;
+    }
+
+    /* navbarpart start */
+    nav button i
+    {
+        margin-top: 15px;
+    }
+    nav ul li {
+        font-size: 15px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    nav .button a {
+        margin-left: 166px;
+    }
+
+
+     /* bannerpart start */
+     #banner-part .banner .overlay p {
+        width: 100%;
+    }
+    #banner-part .prev {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        line-height: 35px;
+        top: 77%;
+        left: 41%;
+    }
+    #banner-part .next {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        line-height: 35px;
+        top: 77%;
+        right: 41%;
+    }
+    #banner-part .banner .overlay {
+        padding-top: 50px;
+    }
+    #banner-bottom .item {
+        margin-top: 10px;
+    }
+
+    /* about part */
+
+    #about-part {
+        padding-bottom: 65px;
+    }
+    .title p {
+        font-size: 14px;
+        padding-bottom: 65px;
+        padding-top: 22px;
+        width: 100%;
+    }
+
+    #about-part .text-part p {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    #about-part .text-part a {
+        font-size: 17px;
+        padding: 10px 18px;
+    }
+
+    /* counter part */
+    #counter-part .item h2 {
+        font-size: 40px;
+        padding-bottom: 0px;
+        padding-top: 15px;
+    }
+    #counter-part .item p {
+        font-size: 24px;
+    }
+    img, svg {
+        padding-bottom: 20px;
+    }
+
+
+    /* even part */
+    #event-part .img .overlay {
+        bottom: 46px;
+    }
+
+    /* testomonial part */
+    #testimonial-part .details p {
+        width: 100%;
+    }
+
+
+    /* teacher part */
+    #teacher-part {
+        padding-top: 12px;
+    }
+
+    #teacher-part .item .overlay {
+        top: 92%;
+        left: 35%;
+    }
+
+    #teacher-part .item .img .overlay ul li {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+
+
+    /* blog part */
+    #blog-part {
+        transform: translateY(-5%);
+    }
+    #blog-part .first .overlay {
+        height: 95%;
+    }
+    #blog-part .first .img .overlay .icon ul li {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+        line-height: 35px;
+    }
+    #blog-part .second .overlay {
+        height: 96%;
+    }
+
+    #blog-part .second .img .overlay .text h2 a {
+        padding-top: 170px;
+    }
+
+    /* conact part */
+    #contact-part {
+        margin-top: -80px;
+    }
+
+    #contact-part .left p {
+        font-size: 14px;
+        padding-top: 25px;
+    }
+
+    #contact-part .center h2 {
+        padding: 25px 0 45px 10px;
+    }
+    #contact-part .center ul li {
+        padding-left: 0px;
+    }
+    #contact-part .right h2 {
+        padding-left: 10px;
+    }
+    #contact-part .right a {
+        width: 35px;
+        height: 34px;
+        font-size: 16px;
+        line-height: 35px;
+        margin-left: 17px;
+    }
+
+    /* footer part */
+    #footer-part .img .overlay:hover 
+    {
+        opacity: 0;
+    }
+
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+
+    /* hearder part */
+    header p {
+        display: block;
+        padding-bottom: 5px;
+    }
+
+    /* navbarpart start */
+    nav button i
+    {
+        margin-top: 15px;
+    }
+    nav ul li {
+        font-size: 15px;
+        padding-bottom: 0px;
+        text-align: center;
+    }
+    nav .button a {
+        margin-left: 253px;
+    }
+
+
+     /* bannerpart start */
+     #banner-part .banner .overlay p {
+        width: 100%;
+    }
+    #banner-part .prev {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        line-height: 35px;
+        top: 73%;
+        left: 43%;
+    }
+    #banner-part .next {
+        width: 35px;
+        height: 35px;
+        font-size: 20px;
+        line-height: 35px;
+        top: 73%;
+        right: 43%;
+    }
+    #banner-part .banner .overlay {
+        padding-top: 50px;
+    }
+    #banner-bottom .item {
+        margin-top: 10px;
+    }
+
+    /* about part */
+
+    #about-part {
+        padding-bottom: 65px;
+    }
+    .title p {
+        font-size: 14px;
+        padding-bottom: 65px;
+        padding-top: 22px;
+        width: 100%;
+    }
+
+    #about-part .text-part p {
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    #about-part .text-part a {
+        font-size: 17px;
+        padding: 10px 18px;
+    }
+
+    /* counter part */
+    #counter-part .item h2 {
+        font-size: 40px;
+        padding-bottom: 0px;
+        padding-top: 15px;
+    }
+    #counter-part .item p {
+        font-size: 24px;
+    }
+    img, svg {
+        padding-bottom: 20px;
+    }
+
+
+    /* even part */
+    #event-part .img .overlay {
+        bottom: 46px;
+    }
+
+    /* testomonial part */
+    #testimonial-part .details p {
+        width: 100%;
+    }
+
+
+    /* teacher part */
+    #teacher-part {
+        padding-top: 12px;
+    }
+
+    #teacher-part .item .overlay {
+        top: 90%;
+        left: 27%;
+    }
+
+    #teacher-part .item .img .overlay ul li {
+        width: 40px;
+        height: 40px;
+        font-size: 20px;
+    }
+
+
+    /* blog part */
+    #blog-part {
+        transform: translateY(-4%);
+    }
+    #blog-part .first .overlay {
+        height: 97%;
+    }
+    #blog-part .first .img .overlay .icon ul li {
+        width: 35px;
+        height: 35px;
+        font-size: 15px;
+        line-height: 35px;
+    }
+    #blog-part .second .overlay {
+        height: 97%;
+    }
+
+    #blog-part .second .img .overlay .text h2 a {
+        padding-top: 40%;
+    }
+
+    /* conact part */
+    #contact-part {
+        margin-top: -80px;
+    }
+
+    #contact-part .left p {
+        font-size: 14px;
+        padding-top: 25px;
+    }
+
+    #contact-part .center h2 {
+        padding: 25px 0 45px 10px;
+    }
+    #contact-part .center ul li {
+        padding-left: 0px;
+    }
+    #contact-part .right h2 {
+        padding-left: 10px;
+    }
+    #contact-part .right a {
+        width: 35px;
+        height: 34px;
+        font-size: 16px;
+        line-height: 35px;
+        margin-left: 17px;
+    }
+
+    /* footer part */
+    #footer-part .img .overlay:hover 
+    {
+        opacity: 0;
+    }
+
+}
+
+
+
+
